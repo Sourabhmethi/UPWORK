@@ -1,0 +1,19 @@
+# Core dependencies
+pandas==2.0.3
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Excel handling
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Google API clients
+google-api-python-client==2.97.0
+google-generativeai==0.3.1
+
+# Time handling
+pytz==2023.3
+
+# Optional utilities
+tqdm==4.66.1  # Progress bars
+colorama==0.4.6  # Terminal colors

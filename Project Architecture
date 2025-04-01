@@ -1,0 +1,9 @@
+business-data-processor/
+│
+├── main.py                    # Main script with all functionality
+├── requirements.txt           # Python dependencies
+├── .env                       # Environment variables (API keys)
+├── input_businesses.xlsx      # Input data file
+└── processed_businesses.xlsx  # Output data file
+
+
